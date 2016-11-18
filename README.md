@@ -8,7 +8,7 @@ Install
 
 Installing this boilerplate is extremely simple!
 
-`git clone https://github.com/c4wrd/angular2-electron-boilerplate`
+`git clone https://github.com/koert/angular2-electron-boilerplate`
 
 `cd angular2-electron-boilerplate`
 
@@ -19,7 +19,7 @@ That's it! You are now ready for development.
 Development Tools
 =================
 
-This boilerplate utilizes a few packages to ensure an automated and easy to use workflow with Angular 2. Here is a list of them and their purposes: 
+This boilerplate utilizes a few packages to ensure an automated and easy to use workflow with Angular 2. Here is a list of them and their purposes:
 - TypeScript: The language used in this project's development
 - tsconfig.json: Configuration for our TypeScript code.
 - typings.json: Typings used within the code, such as core-js
